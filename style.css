@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(42, 165, 144);
+}
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(226, 153, 43);
+    text-align: center;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    
+    color: dark blue;
+}
+h1,h2{
+    background-color: rgb(95, 139, 160);
+    text-align: center;
+
+}
+
+
+
