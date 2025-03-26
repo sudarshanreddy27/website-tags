@@ -21,6 +21,15 @@ h1,h2{
     text-align: center;
 
 }
+body {
+    background: url(image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    color: azure;
+}
+
 
 
 
